@@ -1,0 +1,2 @@
+I am Learning Python right now.
+It is a high-level language.
