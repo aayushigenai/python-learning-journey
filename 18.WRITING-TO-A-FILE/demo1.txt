@@ -1,3 +1,5 @@
  I am learning javascript right now. its code number is 12345.
  i am every happy learning python right now. 
  it is an amazing language.
+ i am every happy learning python right now. 
+ it is an amazing language.
